@@ -1,6 +1,19 @@
 # Hi, I'm Joseph Reanzares
 
-IT support professional in training, based in Auckland, NZ. I build home labs to develop real hands-on skills across Windows Server, networking, security, and automation — the kind of experience you don't get from certifications alone.
+IT support professional in training, based in Auckland, NZ. I'm a final-year Bachelor of Computer and Information Sciences student at AUT (graduating June 2026), majoring in Software Development with a minor in Networks and Cybersecurity. I build home labs to develop real hands-on skills across Windows Server, networking, security, and automation — the kind of experience you don't get from certifications alone.
+
+---
+
+## Education & certification
+
+**Bachelor of Computer and Information Sciences** · Auckland University of Technology · 2022 – Jun 2026
+Major in Software Development · Minor in Networks and Cybersecurity
+
+**CCNA: Enterprise Networking, Security, and Automation** · Cisco Networking Academy · Oct 2024
+OSPFv2 · Network Security · IPv4 ACLs · NAT · WAN Scalability · QoS · SD-WAN
+
+**Certificate in Science and Technology** · Auckland University of Technology · 2021 – 2022
+
 
 ---
 
@@ -25,13 +38,14 @@ IT support professional in training, based in Auckland, NZ. I build home labs to
 ---
 
 ### Vulnerability Assessment Lab
-> A home lab simulating a real-world vulnerability assessment against intentionally vulnerable targets using industry-standard tools.
+> A structured vulnerability assessment against intentionally vulnerable targets using industry-standard tools.
 
 **What was used:**
 - Kali Linux as the attacker machine
 - Nmap for network discovery and port scanning
 - Nikto for web server vulnerability scanning
 - Metasploit for exploitation and verification
+- Documented four critical vulnerabilities with a full mitigation report
 
 [github.com/hallowseph/vuln-assessment-lab](https://github.com/hallowseph/vuln-assessment-lab)
 
@@ -43,14 +57,15 @@ IT support professional in training, based in Auckland, NZ. I build home labs to
 |---|---|
 | Operating systems | Windows Server 2025, Windows 11, Kali Linux |
 | Directory services | Active Directory, DNS, DHCP, Group Policy |
-| Networking | TCP/IP, pfSense, VLANs, NAT, firewall rules |
+| Networking | TCP/IP, pfSense, VLANs, NAT, OSPFv2, firewall rules |
 | File services | SMB, DFS, NTFS permissions, FSRM |
 | Web services | IIS, SSL/TLS, HTTP/HTTPS |
 | Patch management | WSUS, GPO-based client targeting |
 | Scripting | PowerShell — user provisioning, reporting, automation |
 | Security | Nmap, Nikto, Metasploit, vulnerability assessment |
 | Backup & recovery | Windows Server Backup, system state, DR planning |
-| Virtualisation | Microsoft Hyper-V |
+| Virtualisation | Microsoft Hyper-V, VMware |
+| Development | Java, PHP, JavaScript, SQL, Node.js, HTML/CSS |
 | Documentation | Technical runbooks, step-by-step lab guides |
 
 ---
@@ -65,4 +80,3 @@ IT support professional in training, based in Auckland, NZ. I build home labs to
 ## Contact
 
 📧 josephreanzares12@gmail.com
-
