@@ -64,4 +64,5 @@ IT support professional in training, based in Auckland, NZ. I build home labs to
 
 ## Contact
 
-📧 xxg8089@autuni.ac.nz
+📧 josephreanzares12@gmail.com
+
