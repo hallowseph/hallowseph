@@ -1,4 +1,5 @@
 # Hi, I'm Joseph Reanzares
+
 IT support professional in training, based in Auckland, NZ. I'm a final-year Bachelor of Computer and Information Sciences student at AUT (graduating June 2026), majoring in Software Development with a minor in Networks and Cybersecurity. I build home labs to develop real hands-on skills across Windows Server, networking, security, and automation — the kind of experience you don't get from certifications alone.
 
 ---
@@ -12,6 +13,8 @@ Major in Software Development · Minor in Networks and Cybersecurity
 OSPFv2 · Network Security · IPv4 ACLs · NAT · WAN Scalability · QoS · SD-WAN
 
 **Certificate in Science and Technology** · Auckland University of Technology · 2021 – 2022
+
+🇳🇿 New Zealand Permanent Resident
 
 ---
 
@@ -39,13 +42,13 @@ OSPFv2 · Network Security · IPv4 ACLs · NAT · WAN Scalability · QoS · SD-W
 > A hands-on helpdesk lab deployed on top of the Contoso AD environment, simulating real-world L1 and L2 IT support workflows using osTicket on Ubuntu Server.
 
 **What's running:**
-- Ubuntu Server 26.04 LTS VM on Hyper-V — LAMP stack (Apache, MySQL, PHP 8.5)
+- Ubuntu Server 24.04 LTS VM on Hyper-V — LAMP stack (Apache, MySQL, PHP 8.5)
 - osTicket v1.18.2 — departments, SLA plans, help topics, agents, and teams configured
 - 3 departments with L1/L2 separation — IT Support and Systems Administration
-- 4 SLA plans — Sev-1 Critical (1hr/24/7) through Sev-3 Normal (8hr/business hours)
+- 4 SLA plans — Sev-1 Critical (1hr/24-7) through Sev-3 Normal (8hr/business hours)
 - 7 help topics with automatic department routing and SLA assignment
 - 4 end-to-end ticket scenarios — password reset, hardware issue, VPN access, system outage
-- LDAP plugin installed and configured for AD integration — PHP 8.5 compatibility findings documented
+- LDAP plugin installed and configured for AD integration
 - Full troubleshooting log — 6 real issues documented with root cause and resolution
 
 **Full documentation with screenshots for every component:**
@@ -88,10 +91,6 @@ OSPFv2 · Network Security · IPv4 ACLs · NAT · WAN Scalability · QoS · SD-W
 
 ---
 
-## Currently building
-- Azure AD Connect — hybrid identity and cloud integration
-
----
-
 ## Contact
+
 📧 josephreanzares12@gmail.com
