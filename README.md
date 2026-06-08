@@ -1,6 +1,6 @@
 # Hi, I'm Joseph Reanzares
 
-IT support professional in training, based in Auckland, NZ. I'm a final-year Bachelor of Computer and Information Sciences student at AUT (graduating June 2026), majoring in Software Development with a minor in Networks and Cybersecurity. I build home labs to develop real hands-on skills across Windows Server, networking, security, and automation — the kind of experience you don't get from certifications alone.
+IT support professional in training, based in Auckland, NZ. I'm a final-year Bachelor of Computer and Information Sciences student at AUT (graduating July 2026), majoring in Software Development with a minor in Networks and Cybersecurity. I build home labs to develop real hands-on skills across Windows Server, networking, security, and automation — the kind of experience you don't get from certifications alone.
 
 ---
 
